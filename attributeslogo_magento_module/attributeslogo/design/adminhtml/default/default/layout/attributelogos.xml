@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <attributelogos_adminhtml_attributelogos_index>
+        <reference name="content">
+            <block type="attributelogos/adminhtml_attributelogos" name="attributelogos" />
+        </reference>
+    </attributelogos_adminhtml_attributelogos_index>
+</layout>
